@@ -1,2 +1,2 @@
-# among-us
+# Among Us
 a fun game
